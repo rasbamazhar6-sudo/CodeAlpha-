@@ -1,0 +1,11 @@
+======= Extracted Emails =======
+
+asia.support@connectasia.co
+europe.office@globalconnect.eu
+hr@companycareers.org
+info@websolutions.net
+sales@shopworld.com
+support@example.com
+
+Total Emails Found: 6
+Unique Emails: 6

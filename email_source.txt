@@ -1,0 +1,13 @@
+Contact Information Page
+
+Thank you for reaching out! Below are a few sample contacts you can use
+for testing the email extractor script:
+
+Customer Support: support@example.com Sales Team: sales@shopworld.com HR
+Department: hr@companycareers.org General Inquiries:
+info@websolutions.net
+
+You may also contact our international offices: Europe Office:
+europe.office@globalconnect.eu Asia Office: asia.support@connectasia.co
+
+We look forward to assisting you!
